@@ -280,6 +280,11 @@
     "url": "images/logo/Samsung.png"
   },
   {
+    "key": "dxo",
+    "label": "DXO",
+    "url": "images/logo/dxo.png"
+  },
+  {
     "key": "google",
     "label": "谷歌地图",
     "url": "images/logo/google-maps-logo.png"
