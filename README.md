@@ -17,3 +17,11 @@ docker run -d --name logo -p 8080:80 logo:1.0.0
 ### 3. 浏览器打开
 
 [logo](http://localhost:8080)
+
+## 使用tomcat打开
+
+### 1. 直接将项目根文件夹复制到tomcat的webapps路径下
+
+### 2. 浏览器打开
+
+[logo](http://localhost:8080/logo/)
